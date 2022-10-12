@@ -1,0 +1,39 @@
+body{
+    background: lightslategray;
+}
+.title,
+.subtitle{
+    text-align: center;
+    color: white;
+}
+.title{
+    margin-top: 30px;
+}
+.subtitle{
+    margin-bottom: 30px;
+
+}
+.list-button{
+    width: 30%;
+    margin: auto;
+}
+.list-button a{
+    width: 130px;
+}
+.collapse{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+align-items: center;
+}
+.card{
+    width: 70%;
+    margin: 20px;
+
+}
+.card-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
